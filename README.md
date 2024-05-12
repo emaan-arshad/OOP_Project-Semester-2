@@ -1,4 +1,4 @@
-![Screenshot (14)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/778e75d8-83ef-4b6a-a4a1-523a3a04f6ed)![Screenshot (6)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/cafdfbe2-c633-4481-8cdc-201617f3d84e)# OOP_Project-Semester-2
+
 
 ### To run open ImageViewerApp.exe in your machine
 <img width="577" alt="image" src="https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/621b6688-9abf-4c89-a547-40cfd77c3df1">
@@ -26,6 +26,13 @@
 
 ![Screenshot (13)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/63d651ef-f595-4b8b-8b73-6190a20469a9)
 ##### next picture will  show 
+
+
+![Screenshot (14)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/f0618fa1-d295-46fe-b82f-59d6d9521155)
+
+
+
+
 ![Screenshot (14)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/9332ad67-bad7-4594-95fc-aa242d6a901e)
 
 
