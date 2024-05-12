@@ -123,7 +123,10 @@ Template of CppWinformsApp found in .Netframeworks in VS 2022 IDE, Microsoft Fra
 
 
 ![Screenshot (14)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/f0618fa1-d295-46fe-b82f-59d6d9521155)
+#### clikcing the close button removes picture from picture box 
 
+
+![Screenshot (10)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/e804ae45-d6f9-4581-b84c-0ce9f6797f71)
 
 
 
