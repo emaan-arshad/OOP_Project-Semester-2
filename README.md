@@ -91,9 +91,9 @@ Template of CppWinformsApp found in .Netframeworks in VS 2022 IDE, Microsoft Fra
 
 ### To run open ImageViewerApp.exe in your machine
 
-WinForm C++/CLI
-Only play (.jpg) files
-includes visual studio solution (.sln) file
+# WinForm C++/CLI
+# Only play (.jpg) files
+# includes visual studio solution (.sln) file
 
 <img width="577" alt="image" src="https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/621b6688-9abf-4c89-a547-40cfd77c3df1">
 
