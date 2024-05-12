@@ -1,4 +1,4 @@
-## Reasons for Developing an Image Viewer App Instead of a WinForms Library Management System
+## Reasons for Developing an Winforms Image Viewer App Instead of a Console Based Library Management System
 
 - **Transition to GUI**: Opted for developing an image viewer app to transition from a console-based system to a graphical user interface (GUI) for a more engaging user experience.
 
