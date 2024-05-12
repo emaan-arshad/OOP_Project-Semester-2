@@ -101,7 +101,7 @@ Template of CppWinformsApp found in .Netframeworks in VS 2022 IDE, Microsoft Fra
 
 <img width="477" alt="open" src="https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/2b424c5f-f1e1-46a4-a016-9a05ea92ceed">
 
-##### images
+#### images
 
 ![Screenshot (1)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/3fb3e54f-72a1-4e69-9f73-fb16fedb06e4)
 
@@ -109,17 +109,17 @@ Template of CppWinformsApp found in .Netframeworks in VS 2022 IDE, Microsoft Fra
 #### click the + button the picture will zoom 
 ![Screenshot (4)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/a88dae5d-08e1-4968-a0d3-c2d2673ec051)
 
-###### click the - button to minimize the picture 
+#### click the - button to minimize the picture 
 
 ![Screenshot (3)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/7431bfa6-dddc-4fef-8ab2-605ca0b27d4c)
 
-###### click the  = button to get real size of image 
+#### click the  = button to get real size of image 
 ![Screenshot (12)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/44ba584a-15ea-45fa-9fe9-cc9cbf6e64b6)
 
-##### click this > button and get the new image 
+#### click this > button and get the new image 
 
 ![Screenshot (13)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/63d651ef-f595-4b8b-8b73-6190a20469a9)
-##### next picture will  show 
+#### next picture will  show 
 
 
 ![Screenshot (14)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/f0618fa1-d295-46fe-b82f-59d6d9521155)
@@ -127,6 +127,8 @@ Template of CppWinformsApp found in .Netframeworks in VS 2022 IDE, Microsoft Fra
 
 
 ![Screenshot (10)](https://github.com/emaan-arshad/OOP_Project-Semester-2/assets/142867477/e804ae45-d6f9-4581-b84c-0ce9f6797f71)
+
+#### clicking the reset button re runs the app
 
 
 
